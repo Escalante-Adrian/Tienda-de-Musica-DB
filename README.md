@@ -6,10 +6,18 @@ También deberá ser creada una cuenta para los socios y una para los administra
 Cada préstamo debe contener en sus observaciones si fue devuelto, si está pendiente de devolución o con cuantos días de devolución fue devuelto para poder tener el seguimiento o historial de un cliente.
 
 Supuestos a tener en cuenta:
+
 Cada socio puede realizar múltiples préstamos, pero un préstamo siempre pertenece a un único socio.
+
 Un socio no puede realizar un nuevo préstamo si tiene más de 3 sin devolver.
+
 Cada álbum puede tener múltiples copias, y estas pueden provenir de diferentes distribuidoras.
+
 Una copia por obvias razones no puede participar en más de un préstamo a la vez.
+
 Los precios de los préstamos pueden variar según el tipo de copia.
+
 Los datos personales de los socios (DNI, teléfono y correo electrónico) deben ser únicos para evitar duplicaciones.
+
 La tienda lleva un control de fechas: de préstamo, de devolución y tope, para garantizar un seguimiento ordenado.
+
